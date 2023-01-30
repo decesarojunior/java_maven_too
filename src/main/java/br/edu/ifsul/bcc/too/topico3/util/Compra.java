@@ -1,7 +1,6 @@
 
 package br.edu.ifsul.bcc.too.topico3.util;
 
-import br.edu.ifsul.bcc.too.topico3.exercicios.respostas.Carro;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;

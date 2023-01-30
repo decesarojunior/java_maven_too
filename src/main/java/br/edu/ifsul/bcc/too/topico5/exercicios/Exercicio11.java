@@ -1,13 +1,6 @@
 
 package br.edu.ifsul.bcc.too.topico5.exercicios;
 
-import br.edu.ifsul.bcc.too.topico5.exercicios.respostas.cs.Arma;
-import br.edu.ifsul.bcc.too.topico5.exercicios.respostas.cs.Artefato;
-import br.edu.ifsul.bcc.too.topico5.exercicios.respostas.cs.Calibre;
-import br.edu.ifsul.bcc.too.topico5.exercicios.respostas.cs.Endereco;
-import br.edu.ifsul.bcc.too.topico5.exercicios.respostas.cs.Jogador;
-import br.edu.ifsul.bcc.too.topico5.exercicios.respostas.cs.Municao;
-import br.edu.ifsul.bcc.too.topico5.exercicios.respostas.cs.Patente;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
@@ -20,8 +13,8 @@ public class Exercicio11 {
     
     public Exercicio11(){     
         
-        List<Jogador> lista = inicializaListJogadores();
-        imprimeListJogadores(lista);
+        //List<Jogador> lista = inicializaListJogadores();
+        //imprimeListJogadores(lista);
         //ou
         //imprimeListJogadores(inicializaListJogadores());
     }
@@ -34,12 +27,12 @@ public class Exercicio11 {
     dua patentes. Em seguida, imprima na saída padrão, os jogadores
     com seus respectivos artefatos e patentes.
     */
-    private List<Jogador> inicializaListJogadores(){  
+    private List<Object> inicializaListJogadores(){  
         
         return null;
     }
     
-    private void imprimeListJogadores(List<Jogador> lista){  
+    private void imprimeListJogadores(List<Object> lista){  
         
         
     }

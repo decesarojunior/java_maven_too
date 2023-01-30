@@ -2,8 +2,6 @@
 package br.edu.ifsul.bcc.too.topico3.exercicios;
 
 import br.edu.ifsul.bcc.too.topico3.Colecoes;
-import br.edu.ifsul.bcc.too.topico3.exercicios.respostas.Carro;
-import br.edu.ifsul.bcc.too.topico3.exercicios.respostas.Pneu;
 import br.edu.ifsul.bcc.too.topico3.util.Aluno;
 import java.util.ArrayList;
 import java.util.Collections;

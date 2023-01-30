@@ -1,10 +1,6 @@
 
 package br.edu.ifsul.bcc.too.topico4.exercicios;
 
-import br.edu.ifsul.bcc.too.topico3.util.PessoaFisica;
-import br.edu.ifsul.bcc.too.topico4.exercicios.respostas.Cliente;
-import br.edu.ifsul.bcc.too.topico4.exercicios.respostas.ClientePessoaFisica;
-import br.edu.ifsul.bcc.too.topico4.exercicios.respostas.ClientePessoaJuridica;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.List;
