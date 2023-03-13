@@ -19,8 +19,11 @@ public class Exercicio1 {
         int[][] rgDados3 = new int[3][3];
     
         /*
-            1) Com base no método hasNext da classe Scanner obtenha informações do console e inicializar as matrizes rgDados 1 e rgDados2.
-               Em seguida finalize a rotina para somar os dados das matrizes (rgDados1 e rgDados2) e armazene em rgDados3. Por fim imprima no console os dados gerados (rgDados3).
+            1) Com base no método hasNext da classe Scanner obtenha informações do console e 
+               inicializar as matrizes rgDados 1 e rgDados2.
+               Em seguida finalize a rotina para somar os dados das matrizes 
+               (rgDados1 e rgDados2) e armazene em rgDados3. 
+               Por fim imprima no console os dados gerados (rgDados3).
         
                Documentação: https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448
         */
